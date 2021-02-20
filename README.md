@@ -1,5 +1,5 @@
 # (DataCamp) Introduction to Deep Learning in Python
-This is a memo to share what I have learnt in Introduction to Deep Learning in Python, capturing the learning objectives as well as my personal notes. The course is taught by Dan Becker from DataCamp, and it includes 4 chapters:
+This is a memo to share what I have learnt in Introduction to Deep Learning (in Python), capturing the learning objectives as well as my personal notes. The course is taught by Dan Becker from DataCamp, and it includes 4 chapters:
 
 Chapter 1: Basics of deep learning and neural networks
 
